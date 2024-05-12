@@ -3,3 +3,6 @@ This is the school project using using variables, conditionals, and functions to
 
 *THIS APP CREATE BY USING JAVASCRIPT ONLY*
 The UI design using the Design Mode Element in code.org and it is a ready use design no need to code.
+
+For the app preview please go
+https://studio.code.org/projects/applab/0MEUHj_RivPXrX1Sro2ZPR5GwO0V8WA9XBQsba1Kblk
